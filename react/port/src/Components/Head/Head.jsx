@@ -172,8 +172,8 @@ function Head({ currentTheme, themeToggler }) {
               </p>
             </ParagraphWrapper>
             <ActionsDiv>
-              <a href="#projects">
-                <CTAButton currentTheme={currentTheme}>View Projects</CTAButton>
+              <a href="https://drive.google.com/file/d/1hqfRpbxaX2bzhkEve8NRxN8tMUfRAMck/view?usp=sharing" target={"blank"}>
+                <CTAButton currentTheme={currentTheme}>RESUME</CTAButton>
               </a>
             </ActionsDiv>
           </Heading>
